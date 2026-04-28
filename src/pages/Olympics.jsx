@@ -6,9 +6,9 @@ const Olympics = () => {
     <div className="min-h-screen bg-gray-50 text-gray-800 font-sans">
       <header className="bg-indigo-700 text-white py-16 text-center shadow-lg">
         <h1 className="text-5xl font-extrabold tracking-tight">
-          Challenges and Solving Competitions
+          FLoC Olympics 2026
         </h1>
-        <h3 className="text-lg mt-1 font-light">FLoC Olympics 2026</h3>
+        <h3 className="text-lg mt-1 font-light">Challenges and Solving Competitions</h3>
       </header>
 
       <main className="max-w-6xl mx-auto px-6 py-16 space-y-16">
@@ -503,7 +503,7 @@ const Olympics = () => {
                     Organizers: Guillermo Alberto Perez, Swen Jacobs, Philipp Schlehuber-Caissier
                   </i>
                   <br />
-                  <i>Affiliated Event: IJCAR</i>
+                  <i>Affiliated Event: CAV</i>
                   <br />
                   <i>
                     Webpage:{" "}
@@ -513,6 +513,9 @@ const Olympics = () => {
                     >
                       https://www.syntcomp.org/syntcomp-2026-call-for-benchmarks-and-solvers/
                     </a>
+                    Workshop on Synthesis:{" "}
+                    <a href="https://synt2026.github.io/" className="text-indigo-600 hover:underline"
+                    >
                   </i>
                   <br />
                   The Reactive Synthesis Competition (SYNTCOMP) is an annual event founded in 2014

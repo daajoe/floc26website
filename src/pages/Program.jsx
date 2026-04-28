@@ -696,7 +696,7 @@ const challenges_week2 = [
   },
   {
     name: "Reactive Synthesis Competition (SYNTCOMP)",
-    aff: "IJCAR",
+    aff: "CAV",
     link: "https://www.syntcomp.org/syntcomp-2026-call-for-benchmarks-and-solvers/",
   },
   {
